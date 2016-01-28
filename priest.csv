@@ -1,0 +1,409 @@
+All,1,Bless/Curse
+All,1,Combine
+All,1,Detect Magic
+All,1,Orison
+All,1,Purify Food & Drink/Putrefy Food & Drink
+All,2,Chant
+All,2,Mystic Transfer*
+All,2,Sanctify/Defile*
+All,3,Dispel Magic
+All,3,Remove Curse/Bestow Curse
+All,4,Focus*
+All,4,Tongues
+All,4,Uplift*
+All,5,Atonement
+All,5,Commune
+All,5,Meld*
+All,5,Quest
+All,5,True Seeing/False Seeing
+All,6,Speak with Monsters
+All,7,Gate
+Animal,1,Animal Friendship
+Animal,1,Calm Animals
+Animal,1,Invisibility to Animals
+Animal,1,Locate Animals or Plants
+Animal,2,Charm Person or Mammal
+Animal,2,Messenger
+Animal,2,Snake Charm
+Animal,2,Speak with Animals
+Animal,3,Control Animal
+Animal,3,Hold Animal
+Animal,3,Summon Insects
+Animal,4,Animal Summoning I
+Animal,4,Call Woodland Beings
+Animal,4,Giant Insect
+Animal,4,Repel Insects
+Animal,5,Animal Growth
+Animal,5,Animal Summoning II
+Animal,5,Commune with Nature
+Animal,5,Insect Plague
+Animal,6,Animal Summoning III
+Animal,6,Antianimal Shell
+Animal,7,Creeping Doom
+Animal,7,Reincarnate
+Astral,1,Astral Celerity
+Astral,1,Speak with Astral Traveler
+Astral,2,Astral Awareness
+Astral,2,Ethereal Barrier
+Astral,3,Astral Window
+Astral,3,Etherealness
+Astral,4,Join with Astral Traveler
+Astral,5,Plane Shift
+Astral,7,Astral Spell
+Chaos,1,Battlefate
+Chaos,1,Mistaken Missive
+Chaos,2,Chaos Ward
+Chaos,2,Dissension’s Feast
+Chaos,3,Miscast Magic
+Chaos,3,Random Causality
+Chaos,4,Chaotic Combat
+Chaos,4,Chaotic Sleep
+Chaos,4,Inverted Ethics
+Chaos,5,Chaotic Commands
+Chaos,6,Entropy Shield
+Chaos,7,Uncontrolled Weather
+Charm,1,Command
+Charm,1,Remove Fear/Cause Fear
+Charm,1,Sanctuary
+Charm,2,Enthrall
+Charm,2,Hold Person
+Charm,2,Music of the Spheres
+Charm,2,Snake Charm
+Charm,3,Dictate
+Charm,3,Emotion Control
+Charm,4,Cloak of Bravery/Cloak of Fear
+Charm,4,Free Action
+Charm,4,Imbue with Spell Ability
+Charm,6,Command Monster
+Charm,7,Confusion
+Charm,7,Exaction
+Combat,1,Command
+Combat,1,Magical Stone
+Combat,2,Aid
+Combat,2,Spiritual Hammer
+Combat,3,Prayer
+Combat,3,Unearthly Choir*
+Combat,4,Recitation
+Combat,5,Flame Strike
+Combat,5,Righteous Wrath of the Faithful
+Combat,6,Spiritual Wrath*
+Combat,6,Word of Recall
+Combat,7,Holy Word/Unholy Word
+Creation,1,Light/Darkness
+Creation,2,Create Holy Symbol
+Creation,3,Continual Light/Continual Darkness
+Creation,3,Create Food & Water
+Creation,5,Blessed Abundance
+Creation,6,Blade Barrier
+Creation,6,Heroes’ Feast
+Creation,6,The Great Circle/The Black Circle*
+Divination,1,Analyze Balance
+Divination,1,Detect Evil/Detect Good
+Divination,1,Detect Poison
+Divination,2,Augury
+Divination,2,Detect Charm/Undetectable Charm
+Divination,2,Find Traps
+Divination,3,Detect Spirits
+Divination,3,Extradimensional Detection
+Divination,3,Locate Object/Obscure Object
+Divination,3,Speak with Dead
+Divination,4,Detect Lie/Undetectable Lie
+Divination,4,Divination
+Divination,4,Omniscient Eye
+Divination,5,Consequence
+Divination,5,Magic Font
+Divination,6,Find the Path/Lose the Path
+Divination,6,Stone Tell
+Divination,7,Divine Inspiration
+Elemental Air,1,Wind Column
+Elemental Air,2,Dust Devil
+Elemental Air,3,Wind Servant
+Elemental Air,3,Zone of Sweet Air
+Elemental Air,4,Windborne
+Elemental Air,5,Air Walk
+Elemental Air,5,Cloud of Purification
+Elemental Air,5,Control Winds
+Elemental Air,6,Whirlwind
+Elemental Air,7,Conjure Air Elemental
+Elemental Air,7,Wind Walk
+Elemental Earth,1,Strength of Stone
+Elemental Earth,2,Soften Earth and Stone
+Elemental Earth,3,Meld into Stone
+Elemental Earth,3,Stone Shape
+Elemental Earth,4,Adamantite Mace
+Elemental Earth,5,Spike Stones
+Elemental Earth,5,Transmute Rock to Mud/Transmute Mud to Rock
+Elemental Earth,6,Stone Tell
+Elemental Earth,6,Animate Rock
+Elemental Earth,7,Antimineral Shell
+Elemental Earth,7,Conjure Earth Elemental
+Elemental Earth,7,Earthquake
+Elemental Earth,7,Transmute Metal to Wood
+Elemental Fire,1,Firelight
+Elemental Fire,1,Log of Everburning
+Elemental Fire,2,Fire Trap
+Elemental Fire,2,Flame Blade
+Elemental Fire,2,Heat Metal/Chill Metal
+Elemental Fire,2,Produce Flame
+Elemental Fire,3,Flame Walk
+Elemental Fire,3,Protection from Fire
+Elemental Fire,3,Pyrotechnics
+Elemental Fire,4,Produce Fire/Quench Fire
+Elemental Fire,5,Animate Flame
+Elemental Fire,5,Wall of Fire
+Elemental Fire,6,Conjure Fire Elemental
+Elemental Fire,6,Fire Seeds
+Elemental Fire,7,Chariot of Sustarre
+Elemental Fire,7,Fire Storm
+Elemental Water,1,Create Water/Destroy Water
+Elemental Water,2,Watery Fist
+Elemental Water,3,Water Breathing/Air Breathing
+Elemental Water,3,Water Walk
+Elemental Water,4,Lower Water/Raise Water
+Elemental Water,4,Reflecting Pool
+Elemental Water,5,Produce Ice
+Elemental Water,6,Part Water
+Elemental Water,6,Transmute Water to Dust/Improved Create Water
+Elemental Water,7,Conjure Water Elemental
+Elemental Water,7,Tsunami
+Guardian,1,Blessed Watchfulness
+Guardian,1,Light/Darkness
+Guardian,1,Sacred Guardian
+Guardian,2,Iron Vigil
+Guardian,2,Silence, 15’ Radius
+Guardian,2,Wyvern Watch
+Guardian,3,Continual Light/Continual Darkness
+Guardian,3,Glyph of Warding
+Guardian,4,Abjure
+Guardian,4,Dimensional Anchor
+Guardian,5,Dispel Evil/Dispel Good
+Guardian,5,Unceasing Vigilance of the Holy Sentinel
+Guardian,6,Blade Barrier
+Guardian,6,Forbiddance
+Guardian,7,Symbol
+Healing,1,Cure Light Wounds/Cause Light Wounds
+Healing,2,Cure Moderate Wounds/Cause Moderate Wounds
+Healing,2,Slow Poison
+Healing,3,Cure Blindness or Deafness/Cause Blindness or Deafness
+Healing,3,Cure Disease/Cause Disease
+Healing,3,Hold Poison
+Healing,3,Repair Injury
+Healing,4,Cure Serious Wounds/Cause Serious Wounds
+Healing,4,Fortify*
+Healing,4,Neutralize Poison/Poison
+Healing,5,Cure Critical Wounds/Cause Critical Wounds
+Healing,6,Heal/Harm
+Healing,7,Regenerate
+Law,1,Command
+Law,1,Protection from Chaos
+Law,2,Calm Chaos
+Law,2,Enthrall
+Law,2,Hold Person
+Law,3,Dictate
+Law,3,Rigid Thinking
+Law,3,Strength of One
+Law,4,Compulsive Order
+Law,4,Defensive Harmony
+Law,5,Champion’s Strength
+Law,5,Impeding Permission
+Law,6,Legal Thoughts
+Necromantic,1,Dispel Fatigue
+Necromantic,1,Invisibility to Undead
+Necromantic,2,Aid
+Necromantic,3,Restore Strength (2nd) Animate Dead
+Necromantic,3,Feign Death
+Necromantic,3,Negative Plane Protection
+Necromantic,3,Remove Paralysis
+Necromantic,3,Speak with Dead
+Necromantic,4,Suspended Animation
+Necromantic,4,Unfailing Endurance
+Necromantic,5,Raise Dead
+Necromantic,7,Restoration
+Necromantic,7,Resurrection
+Numbers,1,Analyze Balance
+Numbers,1,Calculate
+Numbers,1,Personal Reading
+Numbers,2,Moment
+Numbers,2,Music of the Spheres
+Numbers,3,Etherealness
+Numbers,3,Extradimensional Detection
+Numbers,3,Moment Reading
+Numbers,3,Telethaumaturgy
+Numbers,4,Addition
+Numbers,4,Dimensional Folding
+Numbers,4,Probability Control
+Numbers,5,Consequence
+Numbers,5,Dimensional Translocation
+Numbers,5,Extradimensional Manipulation
+Numbers,5,Extradimensional Pocket
+Numbers,6,Physical Mirror
+Numbers,6,Seclusion
+Numbers,7,Spacewarp
+Numbers,7,Timelessness
+Plant,1,Entangle
+Plant,1,Locate Animals or Plants
+Plant,1,Pass without Trace
+Plant,1,Shillelagh
+Plant,2,Barkskin
+Plant,2,Detect Snares & Pits
+Plant,2,Goodberry/Badberry
+Plant,2,Trip
+Plant,2,Warp Wood
+Plant,3,Plant Growth
+Plant,3,Slow Rot
+Plant,3,Snare
+Plant,3,Spike Growth
+Plant,3,Tree
+Plant,4,Hallucinatory Forest
+Plant,4,Hold Plant
+Plant,4,Plant Door
+Plant,4,Speak with Plants
+Plant,4,Sticks to Snakes
+Plant,5,Antiplant Shell
+Plant,5,Commune with Nature
+Plant,5,Pass Plant
+Plant,6,Liveoak
+Plant,6,Transport Via Plants
+Plant,6,Turn Wood
+Plant,6,Wall of Thorns
+Plant,7,Changestaff
+Protection,1,Endure Cold/Endure Heat
+Protection,1,Protection from Evil/Protection from Good
+Protection,1,Ring of Hands/Ring of Woe*
+Protection,1,Sanctuary
+Protection,2,Resist Acid and Corrosion
+Protection,2,Resist Fire/Resist Cold
+Protection,2,Withdraw
+Protection,3,Line of Protection/Line of Destruction
+Protection,3,Magical Vestment
+Protection,3,Negative Plane Protection
+Protection,3,Protection from Evil, 10’ Radius/Prot. from Good, 10’ Radius
+Protection,3,Remove Paralysis
+Protection,4,Spell Immunity
+Protection,5,Antiplant Shell
+Protection,5,Impregnable Mind
+Protection,6,Antianimal Shell
+Protection,7,Antimineral Shell
+Protection,7,Impervious Sanctity of Mind
+Summoning,1,Call Upon Faith
+Summoning,2,Draw Upon Holy Might
+Summoning,2,Dust Devil
+Summoning,2,Messenger
+Summoning,3,Summon Animal Spirit
+Summoning,4,Abjure
+Summoning,5,Dimensional Translocation
+Summoning,5,Dispel Evil/Dispel Good
+Summoning,6,Aerial Servant
+Summoning,6,Animate Object
+Summoning,6,Conjure Animals
+Summoning,6,Word of Recall
+Summoning,7,Exaction
+Summoning,7,Mind Tracker
+Summoning,7,Spirit of Power
+Summoning,7,Succor
+Sun,1,Light/Darkness
+Sun,1,Sunscorch
+Sun,3,Continual Light/Continual Darkness
+Sun,3,Starshine
+Sun,4,Blessed Warmth
+Sun,5,Moonbeam
+Sun,5,Rainbow
+Sun,6,Sol’s Searing Orb
+Sun,7,Sunray
+Thought,1,Emotion Read
+Thought,1,Thought Capture
+Thought,2,Idea
+Thought,2,Mind Read
+Thought,3,Emotion Control
+Thought,3,Memory Read
+Thought,3,Telepathy
+Thought,4,Genius
+Thought,4,Mental Domination
+Thought,4,Modify Memory
+Thought,4,Rapport
+Thought,4,Solipsism
+Thought,4,Thought Broadcast
+Thought,5,Impregnable Mind
+Thought,5,Memory Wrack
+Thought,5,Mindshatter
+Thought,5,Thoughtwave
+Thought,6,Disbelief
+Thought,6,Group Mind
+Thought,7,Impervious Sanctity of Mind
+Thought,7,Mind Tracker
+Time,1,Know Age
+Time,1,Know Time
+Time,2,Hesitation
+Time,2,Nap
+Time,3,Accelerate Healing
+Time,3,Choose Future
+Time,3,Unfailing Premonition
+Time,4,Age Plant
+Time,4,Body Clock
+Time,5,Age Object
+Time,5,Othertime
+Time,5,Repeat Action
+Time,5,Time Pool
+Time,6,Age Creature
+Time,6,Reverse Time
+Time,6,Skip Day
+Time,7,Age Dragon
+Travelers,1,Know Direction
+Travelers,2,Aura of Comfort
+Travelers,2,Lighten Load
+Travelers,3,Create Campsite
+Travelers,3,Helping Hand
+Travelers,3,Know Customs
+Travelers,4,Circle of Privacy
+Travelers,4,Tree Steed
+Travelers,5,Clear Path
+Travelers,5,Easy March
+Travelers,6,Monster Mount 
+Travelers,7,Hovering Road
+War,1,Courage
+War,1,Morale
+War,2,Emotion Perception
+War,2,Rally
+War,3,Adaptation
+War,3,Caltrops
+War,3,Fortify
+War,4,Entrench
+War,4,Leadership/Doubt
+War,4,Tanglefoot/Selective Passage
+War,5,Disguise
+War,5,Illusory Artillery
+War,6,Gravity Variation
+War,7,Illusory Fortification
+War,7,Shadow Engine
+Wards,1,Antivermin Barrier
+Wards,1,Weighty Chest
+Wards,2,Ethereal Barrier
+Wards,2,Frisky Chest
+Wards,2,Zone of Truth
+Wards,3,Efficacious Monster Ward
+Wards,3,Invisibility Purge
+Wards,3,Squeaking Floor
+Wards,3,Thief’s Lament
+Wards,3,Zone of Sweet Air
+Wards,4,Fire Purge
+Wards,4,Weather Stasis
+Wards,5,Barrier of Retention
+Wards,5,Elemental Forbiddance
+Wards,5,Grounding
+Wards,5,Shrieking Walls
+Wards,5,Undead Ward
+Wards,6,Crushing Walls
+Wards,6,Dragonbane
+Wards,6,Land of Stability
+Wards,7,Tentacle Walls
+Weather,1,Faerie Fire
+Weather,1,Obscurement
+Weather,3,Call Lightning
+Weather,3,Weather Prediction
+Weather,4,Control Temperature, 10’ Radius
+Weather,4,Protection from Lightning
+Weather,4,Weather Stasis
+Weather,5,Control Winds
+Weather,5,Rainbow
+Weather,6,Weather Summoning
+Weather,7,Control Weather

@@ -1,0 +1,910 @@
+Universal Magic,1,Cantrip
+Universal Magic,1,Comprehend Languages/Confuse Languages
+Universal Magic,1,Detect Magic
+Universal Magic,1,Hold Portal
+Universal Magic,1,Identify
+Universal Magic,1,Read Magic
+Universal Magic,1,Wizard Mark
+Universal Magic,2,Knock/Lock
+Universal Magic,2,Protection from Cantrips
+Universal Magic,2,Wizard Lock
+Universal Magic,3,Dispel Magic
+Universal Magic,4,Remove Curse/Bestow Curse
+Universal Magic,5,Teleport
+Universal Magic,6,Enchant an Item
+Universal Magic,7,Teleport Without Error
+Universal Magic,8,Permanency
+Universal Magic,9,Astral Spell
+Abjuration,1,Alarm
+Abjuration,1,Protection from Evil/Protection from Good
+Abjuration,1,Protection From Hunger And Thirst
+Abjuration,1,Protection from Vermin
+Abjuration,2,Filter
+Abjuration,2,Protection from Cantrips
+Abjuration,2,Protection from Paralysis
+Abjuration,2,Protection from Poison
+Abjuration,3,Invisible Mail
+Abjuration,3,Iron Mind
+Abjuration,3,Lesser Sign of Sealing
+Abjuration,3,Nondetection
+Abjuration,3,Protection from Amorphs
+Abjuration,3,Protection from Evil, 10’ Radius/Protection from Good, 10’ Radius
+Abjuration,3,Protection from Normal Missiles
+Abjuration,4,Fire Aura
+Abjuration,4,Fire Trap
+Abjuration,4,Halo Of Eyes
+Abjuration,4,Minor Globe of Invulnerability
+Abjuration,4,Minor Spell Turning
+Abjuration,4,Otiluke’s Dispelling Screen
+Abjuration,4,Psychic Protection
+Abjuration,5,voidance/Attraction
+Abjuration,5,Dismissal
+Abjuration,5,Invulnerability To Normal Weapons
+Abjuration,5,Lower Resistance
+Abjuration,5,Mordenkainen’s Private Sanctum
+Abjuration,5,Proofing vs. Combustion
+Abjuration,5,Safeguarding
+Abjuration,5,Von Gasik’s Refusal
+Abjuration,6,Antimagic Shell
+Abjuration,6,Dragon Scales
+Abjuration,6,Globe of Invulnerability
+Abjuration,6,Greater Sign of Sealing
+Abjuration,6,Invulnerability To Magical Weapons
+Abjuration,6,Repulsion
+Abjuration,7,Banishment
+Abjuration,7,Neutralize Gas
+Abjuration,7,Sequester
+Abjuration,7,Seven-eyes
+Abjuration,7,Spell Turning
+Abjuration,8,Fear Ward
+Abjuration,8,Mind Blank
+Abjuration,8,Serten’s Spell Immunity
+Abjuration,9,Elemental Aura
+Abjuration,9,Imprisonment/Freedom
+Abjuration,9,Prismatic Sphere
+Alteration,1,Affect Normal Fires
+Alteration,1,Burning Hands
+Alteration,1,Chromatic Orb
+Alteration,1,Color Spray
+Alteration,1,Dancing Lights
+Alteration,1,Enlarge/Reduce
+Alteration,1,Erase
+Alteration,1,Expeditious Retreat
+Alteration,1,Feather Fall
+Alteration,1,Fire Burst
+Alteration,1,Fist of Stone
+Alteration,1,Gaze Reflection
+Alteration,1,Jump
+Alteration,1,Lasting Breath
+Alteration,1,Light
+Alteration,1,Mending
+Alteration,1,Message
+Alteration,1,Metamorphose Liquids
+Alteration,1,Murdock’s Feathery Flyer
+Alteration,1,Shocking Grasp
+Alteration,1,Spider Climb
+Alteration,2,Alter Self
+Alteration,2,Cat’s Grace
+Alteration,2,Continual Light
+Alteration,2,Darkness, 15’ radius
+Alteration,2,Deeppockets
+Alteration,3,Displace Self
+Alteration,2,Fog Cloud
+Alteration,2,Fool’s Gold
+Alteration,2,Irritation
+Alteration,2,Levitate
+Alteration,2,Magic Mouth
+Alteration,2,Maximilian’s Earthen Grasp
+Alteration,2,Moon Rune
+Alteration,2,Pyrotechnics
+Alteration,2,Ride the Wind
+Alteration,2,Rope Trick
+Alteration,2,Sense Shifting
+Alteration,2,Shatter
+Alteration,2,Strength
+Alteration,2,Vocalize
+Alteration,2,Whispering Wind
+Alteration,3,Alacrity
+Alteration,3,Blink
+Alteration,3,Delude
+Alteration,3,Explosive Runes
+Alteration,3,Far Reaching I
+Alteration,3,Fly
+Alteration,3,Gust of Wind
+Alteration,3,Haste
+Alteration,3,Infravision
+Alteration,3,Item
+Alteration,3,Leomund’s Tiny Hut
+Alteration,3,Maximilian’s Stony Grasp
+Alteration,3,Melf’s Minute Meteors
+Alteration,3,Secret Page
+Alteration,3,Slow
+Alteration,3,Snapping Teeth
+Alteration,3,Squaring the Circle
+Alteration,3,Tongues/Babble
+Alteration,3,Water Breathing/Air Breathing
+Alteration,3,Wind Wall
+Alteration,3,Wraithform
+Alteration,4,Dilation I
+Alteration,4,Dimension Door
+Alteration,4,Extension I
+Alteration,4,Far Reaching II
+Alteration,4,Fire Shield
+Alteration,4,Improved Strength
+Alteration,4,Leomund’s Secure Shelter
+Alteration,4,Massmorph
+Alteration,4,Mordenkainen’s Celerity
+Alteration,4,Otiluke’s Resilient Sphere
+Alteration,4,Plant Growth
+Alteration,4,Polymorph Other
+Alteration,4,Polymorph Self
+Alteration,4,Rainbow Pattern
+Alteration,4,Rary’s Mnemonic Enhancer
+Alteration,4,Solid Fog
+Alteration,4,Stoneskin
+Alteration,4,Turn Pebble to Boulder/Turn Boulder to Pebble
+Alteration,4,Ultravision
+Alteration,4,Vacancy
+Alteration,4,Wizard Eye
+Alteration,5,Airy Water
+Alteration,5,Animal Growth/Shrink Animal
+Alteration,5,Avoidance/Attraction
+Alteration,5,Distance Distortion
+Alteration,5,Extension II
+Alteration,5,Fabricate
+Alteration,5,Far Reaching III
+Alteration,5,Improved Blink
+Alteration,5,Leomund’s Hidden Lodge
+Alteration,5,Leomund’s Secret Chest
+Alteration,5,Lower Resistance
+Alteration,5,Mordenkainen’s Private Sanctum
+Alteration,5,Passwall
+Alteration,5,Rary’s Telepathic Bond
+Alteration,5,Rusting Grasp
+Alteration,5,Stone Shape
+Alteration,5,Telekinesis
+Alteration,5,Transmute Rock to Mud/Transmute Mud to Rock
+Alteration,6,Claws of the Umber Hulk
+Alteration,6,Control Weather
+Alteration,6,Death Fog
+Alteration,6,Dilation II
+Alteration,6,Disintegrate
+Alteration,6,Extension III
+Alteration,6,Glassee
+Alteration,6,Guards and Wards
+Alteration,6,Lower Water/Raise Water
+Alteration,6,Mirage Arcana
+Alteration,6,Mordenkainen’s Lucubration
+Alteration,6,Move Earth
+Alteration,6,Otiluke’s Freezing Sphere
+Alteration,6,Part Water
+Alteration,6,Project Image
+Alteration,6,Stone to Flesh/Flesh to Stone
+Alteration,6,Superior Magnetism
+Alteration,6,Tenser’s Transformation
+Alteration,6,Tentacles
+Alteration,6,Transmute Water to Dust/Improved Create Water
+Alteration,7,Duo-dimension
+Alteration,7,Hatch the Stone from the Egg
+Alteration,7,Mordenkainen’s Magnificent Mansion
+Alteration,7,Phase Door
+Alteration,7,Reverse Gravity
+Alteration,7,Statue
+Alteration,7,Suffocate
+Alteration,7,Vanish
+Alteration,8,Abi-Dalzim’s Horrid Wilting
+Alteration,8,Airboat
+Alteration,8,Glassteel
+Alteration,8,Incendiary Cloud
+Alteration,8,Iron Body
+Alteration,8,Otiluke’s Telekinetic Sphere
+Alteration,8,Polymorph Any Object
+Alteration,8,Sink
+Alteration,8,Crystalbrittle
+Alteration,9,Estate Transference
+Alteration,9,Glorious Transmutation
+Alteration,9,Mordenkainen’s Disjunction
+Alteration,9,Shape Change
+Alteration,9,Succor/Call
+Alteration,9,Temporal Stasis/Temporal Reinstatement
+Alteration,9,Time Stop
+Conjuration/Summoning,1,Armor
+Conjuration/Summoning,1,Conjure Spell Component
+Conjuration/Summoning,1,Find Familiar
+Conjuration/Summoning,1,Grease
+Conjuration/Summoning,1,Mount
+Conjuration/Summoning,1,Unseen Servant
+Conjuration/Summoning,2,Choke
+Conjuration/Summoning,2,Glitterdust
+Conjuration/Summoning,2,Melf’s Acid Arrow
+Conjuration/Summoning,2,Summon Swarm
+Conjuration/Summoning,2,Wall of Gloom
+Conjuration/Summoning,3,Bands of Sirellyn
+Conjuration/Summoning,3,Flame Arrow
+Conjuration/Summoning,3,Monster Summoning I
+Conjuration/Summoning,3,Phantom Steed
+Conjuration/Summoning,3,Sepia Snake Sigil
+Conjuration/Summoning,3,Snapping Teeth
+Conjuration/Summoning,3,Solvent of Corrosion
+Conjuration/Summoning,3,Watery Double
+Conjuration/Summoning,4,Conjure Elemental-Kin
+Conjuration/Summoning,4,Duplicate
+Conjuration/Summoning,4,Evard’s Black Tentacles
+Conjuration/Summoning,4,Halo Of Eyes
+Conjuration/Summoning,4,Monster Summoning II
+Conjuration/Summoning,4,Summon Lycanthrope
+Conjuration/Summoning,4,Vitriolic Sphere
+Conjuration/Summoning,5,Conjure Elemental
+Conjuration/Summoning,5,Khazid’s Procurement
+Conjuration/Summoning,5,Leomund’s Secret Chest
+Conjuration/Summoning,5,Monster Summoning III
+Conjuration/Summoning,5,Mordenkainen’s Faithful Hound
+Conjuration/Summoning,5,Summon Shadow
+Conjuration/Summoning,5,Vile Venom
+Conjuration/Summoning,5,Wall Of Bones
+Conjuration/Summoning,6,Conjure Animals
+Conjuration/Summoning,6,Ensnarement
+Conjuration/Summoning,6,Forest’s Fiery Constrictor
+Conjuration/Summoning,6,Invisible Stalker
+Conjuration/Summoning,6,Monster Summoning Iv
+Conjuration/Summoning,6,Tentacles
+Conjuration/Summoning,7,Drawmij’s Instant Summons
+Conjuration/Summoning,7,Intensify Summoning
+Conjuration/Summoning,7,Limited Wish
+Conjuration/Summoning,7,Monster Summoning V
+Conjuration/Summoning,7,Mordenkainen’s Magnificent Mansion
+Conjuration/Summoning,7,Power Word, Stun
+Conjuration/Summoning,7,Prismatic Spray
+Conjuration/Summoning,7,Seven-eyes
+Conjuration/Summoning,8,Maze
+Conjuration/Summoning,8,Monster Summoning VI
+Conjuration/Summoning,8,Power Word, Blind
+Conjuration/Summoning,8,Prismatic Wall
+Conjuration/Summoning,8,Symbol
+Conjuration/Summoning,8,Trap the Soul
+Conjuration/Summoning,9,Gate
+Conjuration/Summoning,9,Monster Summoning VII
+Conjuration/Summoning,9,Power Word, Kill
+Conjuration/Summoning,9,Prismatic Sphere
+Conjuration/Summoning,9,Sphere of Ultimate Destruction
+Conjuration/Summoning,9,Wish
+Divination,1,Detect Disease
+Divination,1,Detect Phase
+Divination,1,Detect Secret Passages & Portals
+Divination,1,Detect Undead
+Divination,1,Divining Rod
+Divination,2,Death Recall
+Divination,2,Detect Evil/Detect Good
+Divination,2,Detect Invisibility
+Divination,2,Detect Life
+Divination,2,ESP
+Divination,2,Know Alignment/Undetectable Alignment
+Divination,2,Locate Object/Obscure Object
+Divination,2,Past Life
+Divination,3,Alamir’s Fundamental Breakdown
+Divination,3,Clairaudience
+Divination,3,Clairvoyance
+Divination,3,Wizard Sight
+Divination,4,Detect Scrying
+Divination,4,Locate Creature
+Divination,4,Magic Mirror
+Divination,5,Contact Other Plane
+Divination,5,False Vision
+Divination,5,Khazid’s Procurement
+Divination,5,Know Value
+Divination,5,Prying Eyes
+Divination,5,Rary’s Telepathic Bond
+Divination,6,Legend Lore
+Divination,6,True Seeing
+Divination,7,Vision
+Divination,8,Analyze Dweomer
+Divination,8,Screen
+Divination,9,Foresight
+Enchantment/Charm,1,Charm Person
+Enchantment/Charm,1,Divining Rod
+Enchantment/Charm,1,Friends
+Enchantment/Charm,1,Hypnotism
+Enchantment/Charm,1,Sleep
+Enchantment/Charm,1,Taunt
+Enchantment/Charm,2,Bind
+Enchantment/Charm,2,Deeppockets
+Enchantment/Charm,2,Forget
+Enchantment/Charm,2,Insatiable Thirst
+Enchantment/Charm,2,Ray of Enfeeblement
+Enchantment/Charm,2,Scare
+Enchantment/Charm,2,Tasha’s Uncontrollable Hideous Laughter
+Enchantment/Charm,3,Bone Club
+Enchantment/Charm,3,Delay Death
+Enchantment/Charm,3,Hold Person
+Enchantment/Charm,3,Minor Malison
+Enchantment/Charm,3,Suggestion
+Enchantment/Charm,3,Watery Double
+Enchantment/Charm,4,Charm Monster
+Enchantment/Charm,4,Confusion
+Enchantment/Charm,4,Emotion
+Enchantment/Charm,4,Enchanted Weapon
+Enchantment/Charm,4,Fire Charm
+Enchantment/Charm,4,Fumble
+Enchantment/Charm,4,Greater Malison
+Enchantment/Charm,4,Leomund’s Secure Shelter
+Enchantment/Charm,4,Lesser Geas
+Enchantment/Charm,4,Magic Mirror
+Enchantment/Charm,5,Chaos
+Enchantment/Charm,5,Domination
+Enchantment/Charm,5,Fabricate
+Enchantment/Charm,5,Feeblemind
+Enchantment/Charm,5,Hold Monster
+Enchantment/Charm,5,Leomund’s Hidden Lodge
+Enchantment/Charm,5,Leomund’s Lamentable Belaborment
+Enchantment/Charm,5,Magic Staff
+Enchantment/Charm,5,Mind Fog
+Enchantment/Charm,6,Blackmantle
+Enchantment/Charm,6,Eyebite
+Enchantment/Charm,6,Geas
+Enchantment/Charm,6,Guards and Wards
+Enchantment/Charm,6,Mass Suggestion
+Enchantment/Charm,7,Charm Plants
+Enchantment/Charm,7,Descent into Madness
+Enchantment/Charm,7,Hatch the Stone from the Egg
+Enchantment/Charm,7,Shadow Walk
+Enchantment/Charm,7,Steal Enchantment
+Enchantment/Charm,8,Airboat
+Enchantment/Charm,8,Antipathy-sympathy
+Enchantment/Charm,8,Binding
+Enchantment/Charm,8,Demand
+Enchantment/Charm,8,Mass Charm
+Enchantment/Charm,8,Otto’s Irresistible Dance
+Enchantment/Charm,8,Sink
+Enchantment/Charm,9,Mordenkainen’s Disjunction
+Enchantment/Charm,9,Programmed Amnesia
+Enchantment/Charm,9,Succor/Call
+Illusion/Phantasm,1,Audible Glamer
+Illusion/Phantasm,1,Change Self
+Illusion/Phantasm,1,Corpse Visage
+Illusion/Phantasm,1,Nystul’s Magic Aura
+Illusion/Phantasm,1,Phantasmal Force
+Illusion/Phantasm,1,Spook
+Illusion/Phantasm,1,Ventriloquism
+Illusion/Phantasm,2,Blindness
+Illusion/Phantasm,2,Blur
+Illusion/Phantasm,2,Deafness
+Illusion/Phantasm,2,Fool’s Gold
+Illusion/Phantasm,2,Hypnotic Pattern
+Illusion/Phantasm,2,Improved Phantasmal Force
+Illusion/Phantasm,2,Invisibility
+Illusion/Phantasm,2,Leomund’s Trap
+Illusion/Phantasm,2,Mirror Image
+Illusion/Phantasm,2,Misdirection
+Illusion/Phantasm,2,Whispering Wind
+Illusion/Phantasm,3,Illusionary Script
+Illusion/Phantasm,3,Invisibility, 10’ Radius
+Illusion/Phantasm,3,Lorloveim’s Creeping Shadow
+Illusion/Phantasm,3,Phantom Steed
+Illusion/Phantasm,3,Spectral Force
+Illusion/Phantasm,3,Wraithform
+Illusion/Phantasm,4,Fear
+Illusion/Phantasm,4,Hallucinatory Terrain
+Illusion/Phantasm,4,Illusionary Wall
+Illusion/Phantasm,4,Improved Invisibility
+Illusion/Phantasm,4,Minor Creation
+Illusion/Phantasm,4,Phantasmal Killer
+Illusion/Phantasm,4,Rainbow Pattern
+Illusion/Phantasm,4,Shadow Monsters
+Illusion/Phantasm,4,Vacancy
+Illusion/Phantasm,5,Advanced Illusion
+Illusion/Phantasm,5,Demishadow Monsters
+Illusion/Phantasm,5,Dream/Nightmare
+Illusion/Phantasm,5,Major Creation
+Illusion/Phantasm,5,Seeming
+Illusion/Phantasm,5,Shadow Door
+Illusion/Phantasm,5,Shadow Magic
+Illusion/Phantasm,6,Demishadow Magic
+Illusion/Phantasm,6,Eyebite
+Illusion/Phantasm,6,Lorloveim’s Shadowy Transformation
+Illusion/Phantasm,6,Mirage Arcana
+Illusion/Phantasm,6,Mislead
+Illusion/Phantasm,6,Permanent Illusion
+Illusion/Phantasm,6,Programmed Illusion
+Illusion/Phantasm,6,Project Image
+Illusion/Phantasm,6,Shades
+Illusion/Phantasm,6,Veil
+Illusion/Phantasm,7,Mass Invisibility
+Illusion/Phantasm,7,Sequester
+Illusion/Phantasm,7,Shadow Walk
+Illusion/Phantasm,7,Shadowcat
+Illusion/Phantasm,7,Simulacrum
+Illusion/Phantasm,8,Screen
+Illusion/Phantasm,9,Weird
+Invocation/Evocation,1,Alarm
+Invocation/Evocation,1,Copy
+Invocation/Evocation,1,Chromatic Orb
+Invocation/Evocation,1,Dictation
+Invocation/Evocation,1,Fire Burst
+Invocation/Evocation,1,Magic Missile
+Invocation/Evocation,1,Shield
+Invocation/Evocation,1,Tenser’s Floating Disc
+Invocation/Evocation,1,Wall of Fog
+Invocation/Evocation,n,Flaming Sphere 
+Invocation/Evocation,2,Ice Knife
+Invocation/Evocation,2,Stinking Cloud
+Invocation/Evocation,2,Web
+Invocation/Evocation,3,Augmentation I
+Invocation/Evocation,3,Fireball
+Invocation/Evocation,3,Invisible Mail
+Invocation/Evocation,3,Lance of Disruption
+Invocation/Evocation,3,Lightning Bolt
+Invocation/Evocation,3,Melf’s Minute Meteors
+Invocation/Evocation,3,Wall of Water
+Invocation/Evocation,4,Dig
+Invocation/Evocation,4,Divination Enhancement
+Invocation/Evocation,4,Fire Shield
+Invocation/Evocation,4,Fire Trap
+Invocation/Evocation,4,Ice Storm
+Invocation/Evocation,4,Mordenkainen’s Celerity
+Invocation/Evocation,4,Mordenkainen’s Force Missiles
+Invocation/Evocation,4,Otiluke’s Dispelling Screen
+Invocation/Evocation,4,Otiluke’s Resilient Sphere
+Invocation/Evocation,4,Shout
+Invocation/Evocation,4,Thunder Staff
+Invocation/Evocation,4,Wall of Fire
+Invocation/Evocation,4,Wall of Ice
+Invocation/Evocation,4,Wind Breath
+Invocation/Evocation,5,Bigby’s Interposing Hand
+Invocation/Evocation,5,Cloudkill
+Invocation/Evocation,5,Cone of Cold
+Invocation/Evocation,5,Dream
+Invocation/Evocation,5,Leomund’s Lamentable Belaborment
+Invocation/Evocation,5,Sending
+Invocation/Evocation,5,Tenser’s Destructive Resonance
+Invocation/Evocation,5,Wall of Force
+Invocation/Evocation,5,Wall of Iron
+Invocation/Evocation,5,Wall of Stone
+Invocation/Evocation,6,Augmentation II
+Invocation/Evocation,6,Bigby’s Forceful Hand
+Invocation/Evocation,6,Chain Lightning
+Invocation/Evocation,6,Contingency
+Invocation/Evocation,6,Death Fog
+Invocation/Evocation,6,Dimensional Blade
+Invocation/Evocation,6,Guards and Wards
+Invocation/Evocation,6,Otiluke’s Freezing Sphere
+Invocation/Evocation,6,Tenser’s Transformation
+Invocation/Evocation,7,Acid Storm
+Invocation/Evocation,7,Bigby’s Grasping Hand
+Invocation/Evocation,7,Delayed Blast Fireball
+Invocation/Evocation,7,Forcecage
+Invocation/Evocation,7,Hatch the Stone from the Egg
+Invocation/Evocation,7,Limited Wish
+Invocation/Evocation,7,Malec-Keth’s Flame Fist
+Invocation/Evocation,7,Mordenkainen’s Sword
+Invocation/Evocation,7,Persistence
+Invocation/Evocation,8,Bigby’s Clenched Fist
+Invocation/Evocation,8,Binding
+Invocation/Evocation,8,Demand
+Invocation/Evocation,8,Gunther’s Kaleidoscopic Strike
+Invocation/Evocation,8,Homunculus Shield
+Invocation/Evocation,8,Incendiary Cloud
+Invocation/Evocation,8,Otiluke’s Telekinetic Sphere
+Invocation/Evocation,9,Bigby’s Crushing Hand
+Invocation/Evocation,9,Chain Contingency
+Invocation/Evocation,9,Elemental Aura
+Invocation/Evocation,9,Energy Drain
+Invocation/Evocation,9,Meteor Swarm
+Necromancy,1,Chill Touch
+Necromancy,1,Corpse Visage
+Necromancy,1,Detect Undead
+Necromancy,1,Ray of Fatigue
+Necromancy,2,Choke
+Necromancy,2,Death Recall
+Necromancy,2,Ghoul Touch
+Necromancy,2,Spectral Hand
+Necromancy,3,Bone Club
+Necromancy,3,Delay Death
+Necromancy,3,Feign Death
+Necromancy,3,Hold Undead
+Necromancy,3,Hovering Skull
+Necromancy,3,Pain Touch
+Necromancy,3,Spirit Armor
+Necromancy,3,Vampiric Touch
+Necromancy,4,Contagion
+Necromancy,4,Enervation
+Necromancy,4,Mask of Death
+Necromancy,5,Animate Dead
+Necromancy,5,Force Shapechange
+Necromancy,5,Magic Jar
+Necromancy,5,Mummy Rot
+Necromancy,5,Summon Shadow
+Necromancy,5,Throbbing Bones
+Necromancy,5,Wall Of Bones
+Necromancy,6,Arrow of Bone
+Necromancy,6,Blackmantle
+Necromancy,6,Bloodstone’s Spectral Steed
+Necromancy,6,Dead Man’s Eyes
+Necromancy,6,Death Spell
+Necromancy,6,Reincarnation
+Necromancy,6,Trollish Fortitude
+Necromancy,7,Bloodstone’s Frightful Joining
+Necromancy,7,Control Undead
+Necromancy,7,Finger of Death
+Necromancy,7,Intensify Summoning
+Necromancy,7,Suffocate
+Necromancy,7,Zombie Double
+Necromancy,8,Abi-Dalzim’s Horrid Wilting
+Necromancy,8,Clone
+Necromancy,8,Defoliate
+Necromancy,8,Heart of Stone
+Necromancy,8,Homunculus Shield
+Necromancy,8,Shadow Form
+Necromancy,9,Energy Drain
+Necromancy,9,Wail of the Banshee
+Elemental Air,1,Feather Fall
+Elemental Air,1,Lasting Breath
+Elemental Air,1,Wall of Fog
+Elemental Air,2,Fog Cloud
+Elemental Air,2,Ride the Wind
+Elemental Air,2,Stinking Cloud
+Elemental Air,2,Whispering Wind
+Elemental Air,3,Alamir’s Fundamental Breakdown
+Elemental Air,3,Gust of Wind
+Elemental Air,3,Lance of Disruption
+Elemental Air,3,Water Breathing/Air Breathing
+Elemental Air,3,Wind Wall
+Elemental Air,4,Conjure Elemental-Kin
+Elemental Air,4,Solid Fog
+Elemental Air,5,Airy Water
+Elemental Air,5,Cloudkill
+Elemental Air,5,Conjure Elemental
+Elemental Air,6,Control Weather
+Elemental Air,6,Death Fog
+Elemental Air,7,Neutralize Gas
+Elemental Air,7,Suffocate
+Elemental Air,8,Airboat
+Elemental Air,8,Incendiary Cloud
+Elemental Air,9,Elemental Aura
+Elemental Earth,1,Fist of Stone
+Elemental Earth,2,Fool’s Gold
+Elemental Earth,2,Maximilian’s Earthen Grasp
+Elemental Earth,3,Alamir’s Fundamental Breakdown
+Elemental Earth,3,Maximilian’s Stony Grasp
+Elemental Earth,4,Conjure Elemental-Kin
+Elemental Earth,4,Dig
+Elemental Earth,4,Stoneskin
+Elemental Earth,4,Turn Pebble to Boulder/Turn Boulder to Pebble
+Elemental Earth,5,Conjure Elemental
+Elemental Earth,5,Distance Distortion
+Elemental Earth,5,Passwall
+Elemental Earth,5,Stone Shape
+Elemental Earth,5,Transmute Rock to Mud/Transmute Mud to Rock
+Elemental Earth,5,Wall of Iron
+Elemental Earth,5,Wall of Stone
+Elemental Earth,6,Glassee
+Elemental Earth,6,Move Earth
+Elemental Earth,6,Stone to Flesh/Flesh to Stone
+Elemental Earth,6,Transmute Water to Dust/Improved Create Water
+Elemental Earth,7,Hatch the Stone from the Egg
+Elemental Earth,7,Statue
+Elemental Earth,8,Glassteel
+Elemental Earth,8,Iron Body
+Elemental Earth,8,Sink
+Elemental Earth,9,Crystalbrittle
+Elemental Earth,9,Elemental Aura
+Elemental Fire,1,Affect Normal Fires
+Elemental Fire,1,Burning Hands
+Elemental Fire,1,Dancing Lights
+Elemental Fire,1,Fire Burst
+Elemental Fire,2,Flaming Sphere
+Elemental Fire,2,Pyrotechnics
+Elemental Fire,3,Alamir’s Fundamental Breakdown
+Elemental Fire,3,Fireball
+Elemental Fire,3,Flame Arrow
+Elemental Fire,3,Melf’s Minute Meteors
+Elemental Fire,4,Conjure Elemental-Kin
+Elemental Fire,4,Fire Charm
+Elemental Fire,4,Fire Shield
+Elemental Fire,4,Fire Trap
+Elemental Fire,4,Wall of Fire
+Elemental Fire,5,Conjure Elemental
+Elemental Fire,5,Proofing vs. Combustion
+Elemental Fire,6,Forest’s Fiery Constrictor
+Elemental Fire,7,Delayed Blast Fireball
+Elemental Fire,7,Malec-Keth’s Flame Fist
+Elemental Fire,8,Incendiary Cloud
+Elemental Fire,9,Elemental Aura
+Elemental Fire,9,Meteor Swarm
+Elemental Fire,a,Elemental
+Elemental Fire,i,Barred: Fire element
+Elemental Fire,1,Metamorphose Liquids
+Elemental Fire,2,Insatiable Thirst
+Elemental Fire,3,Alamir’s Fundamental Breakdown
+Elemental Fire,3,Wall of Water
+Elemental Fire,3,Water Breathing/Air Breathing
+Elemental Fire,3,Watery Double
+Elemental Fire,4,Conjure Elemental-Kin
+Elemental Fire,4,Ice Storm
+Elemental Fire,4,Vitriolic Sphere
+Elemental Fire,4,Wall of Ice
+Elemental Fire,5,Airy Water
+Elemental Fire,5,Cone of Cold
+Elemental Fire,5,Conjure Elemental
+Elemental Fire,5,Rusting Grasp
+Elemental Fire,5,Transmute Rock to Mud/Transmute Mud to Rock
+Elemental Fire,5,Vile Venom
+Elemental Fire,6,Lower Water
+Elemental Fire,6,Otiluke’s Freezing Sphere
+Elemental Fire,6,Part Water
+Elemental Fire,6,Transmute Water to Dust/Improved Create Water
+Elemental Fire,7,Acid Storm
+Elemental Fire,8,Abi-Dalzim’s Horrid Wilting
+Elemental Fire,9,Elemental Aura
+Dimension,1,Detect Phase
+Dimension,1,Enlarge/Reduce
+Dimension,1,Gaze Reflection
+Dimension,2,Deeppockets
+Dimension,2,Displace Self
+Dimension,2,Rope Trick
+Dimension,3,Blink
+Dimension,4,Dimension Door
+Dimension,5,Distance Distortion
+Dimension,5,Improved Blink
+Dimension,5,Leomund’s Secret Chest
+Dimension,6,Dimensional Blade
+Dimension,6,Etherealness
+Dimension,7,Drawmij’s Instant Summons
+Dimension,7,Duo-dimension
+Dimension,7,Mordenkainen’s Magnificent Mansion
+Dimension,7,Phase Door
+Dimension,7,Shadow Walk
+Dimension,8,Maze
+Dimension,9,Gate
+Dimension,9,Sphere of Ultimate Destruction
+Dimension,9,Time Stop
+Force,1,Armor
+Force,1,Magic Missile
+Force,1,Shield
+Force,1,Tenser’s Floating Disc
+Force,2,Levitate
+Force,3,Invisible Mail
+Force,3,Lance of Disruption
+Force,4,Mordenkainen’s Force Missiles
+Force,4,Otiluke’s Resilient Sphere
+Force,5,Bigby’s Interposing Hand
+Force,5,Telekinesis
+Force,5,Tenser’s Destructive Resonance
+Force,5,Wall of Force
+Force,6,Bigby’s Forceful Hand
+Force,6,Repulsion
+Force,7,Bigby’s Grasping Hand
+Force,7,Forcecage
+Force,7,Mordenkainen’s Sword
+Force,8,Bigby’s Clenched Fist
+Force,8,Otiluke’s Telekinetic Sphere
+Force,9,Bigby’s Crushing Hand
+Mentalism,1,Charm Person
+Mentalism,1,Hypnotism
+Mentalism,1,Spook
+Mentalism,2,ESP
+Mentalism,2,Forget
+Mentalism,3,Clairaudience
+Mentalism,3,Clairvoyance
+Mentalism,3,Iron Mind
+Mentalism,3,Suggestion
+Mentalism,4,Charm Monster
+Mentalism,4,Phantasmal Killer
+Mentalism,4,Psychic Protection
+Mentalism,4,Rary’s Mnemonic Enhancer
+Mentalism,5,Domination
+Mentalism,5,Feeblemind
+Mentalism,5,Magic Jar
+Mentalism,5,Sending
+Mentalism,6,Eyebite
+Mentalism,6,Geas
+Mentalism,6,Mass Suggestion
+Mentalism,6,Tower of Mental Resistance
+Mentalism,7,Descent into Madness
+Mentalism,8,Demand
+Mentalism,8,Mind Blank
+Mentalism,9,Programmed Amnesia
+Shadow,1,Chill Touch
+Shadow,1,Sleep
+Shadow,1,Spook
+Shadow,2,Blur
+Shadow,2,Continual Darkness
+Shadow,2,Darkness, 15’ Radius
+Shadow,2,Ray of Enfeeblement
+Shadow,2,Scare
+Shadow,2,Spectral Hand
+Shadow,2,Wall of Gloom
+Shadow,3,Lorloveim’s Creeping Shadow
+Shadow,3,Nondetection
+Shadow,3,Phantom Steed
+Shadow,3,Spirit Armor
+Shadow,3,Wraithform
+Shadow,4,Dimension Door
+Shadow,4,Enervation
+Shadow,4,Evard’s Black Tentacles
+Shadow,4,Fear
+Shadow,4,Minor Creation
+Shadow,4,Shadow Monsters
+Shadow,5,Demishadow Monsters
+Shadow,5,Major Creation
+Shadow,5,Mordenkainen’s Faithful Hound
+Shadow,5,Passwall
+Shadow,5,Shadow Door
+Shadow,5,Shadow Magic
+Shadow,6,Blackmantle
+Shadow,6,Bloodstone’s Spectral Steed
+Shadow,6,Demishadow Magic
+Shadow,6,Lorloveim’s Shadowy Transformation
+Shadow,6,Shades
+Shadow,7,Duo-dimension
+Shadow,7,Phase Door
+Shadow,7,Shadowcat
+Shadow,7,Shadow Walk
+Shadow,8,Maze
+Shadow,8,Shadowform
+Shadow,9,Energy Drain
+Alchemy,1,Affect Normal Fires
+Alchemy,1,Fire Burst
+Alchemy,1,Grease
+Alchemy,1,Metamorphose Liquids
+Alchemy,1,Patternweave
+Alchemy,1,Protection from Evil/Protection from Good
+Alchemy,2,Fool’s Gold
+Alchemy,2,Glitterdust
+Alchemy,2,Melf’s Acid Arrow
+Alchemy,2,Pyrotechnics
+Alchemy,2,Sense Shifting
+Alchemy,2,Stinking Cloud
+Alchemy,3,Alamir’s Fundamental Breakdown
+Alchemy,3,Flame Arrow
+Alchemy,3,Melf’s Minute Meteors
+Alchemy,3,Protection from Evil, 10’ Radius/Protection from Good, 10’ Radius
+Alchemy,3,Solvent of Corrosion
+Alchemy,4,Enchanted Weapon
+Alchemy,4,Fire Charm
+Alchemy,4,Fire Trap
+Alchemy,4,Vitriolic Sphere
+Alchemy,5,Cloudkill
+Alchemy,5,Fabricate
+Alchemy,5,Rusting Grasp
+Alchemy,5,Transmute Rock to Mud/Transmute Mud to Rock
+Alchemy,5,Vile Venom
+Alchemy,6,Death Fog
+Alchemy,6,Glassee
+Alchemy,6,Stone to Flesh/Flesh to Stone
+Alchemy,6,Transmute Water to Dust/Improved Create Water
+Alchemy,7,Acid Storm
+Alchemy,7,Hatch the Stone from the Egg
+Alchemy,7,Neutralize Gas
+Alchemy,7,Statue
+Alchemy,8,Glassteel
+Alchemy,8,Incendiary Cloud
+Alchemy,9,Crystalbrittle
+Alchemy,9,Glorious Transmutation
+Artifice,1,Chromatic Orb
+Artifice,1,Divining Rod
+Artifice,1,Mending
+Artifice,2,Bind
+Artifice,2,Ice Knife
+Artifice,2,Leomund’s Trap
+Artifice,2,Moon Rune
+Artifice,3,Bone Club
+Artifice,3,Explosive Runes
+Artifice,3,Flame Arrow
+Artifice,3,Item
+Artifice,3,Melf’s Minute Meteors
+Artifice,3,Snapping Teeth
+Artifice,4,Enchanted Weapon
+Artifice,4,Magic Mirror
+Artifice,4,Thunder Staff
+Artifice,5,Magic Staff
+Artifice,6,Arrow of Bone
+Artifice,6,Dimensional Blade
+Artifice,7,Steal Enchantment
+Artifice,8,Analyze Dweomer
+Artifice,8,Antipathy-sympathy
+Artifice,9,Shape Change
+Geometry,1,Alarm
+Geometry,1,Copy
+Geometry,1,Dictation
+Geometry,1,Erase
+Geometry,1,Shield
+Geometry,1,Hornung’s Baneful Deflector
+Geometry,2,Hypnotic Pattern
+Geometry,2,Moon Rune
+Geometry,3,Bone Club
+Geometry,3,Explosive Runes
+Geometry,3,Lesser Sign of Sealing
+Geometry,3,Secret Page
+Geometry,3,Sepia Snake Sigil
+Geometry,4,Conjure Elemental-Kin
+Geometry,4,Fire Trap
+Geometry,4,Minor Globe of Invulnerability
+Geometry,4,Rainbow Pattern
+Geometry,4,There/Not There
+Geometry,4,Thunder Staff
+Geometry,5,Animate Dead
+Geometry,5,Avoidance
+Geometry,5,Conjure Elemental
+Geometry,5,Invulnerability to Normal Weapons
+Geometry,5,Khazid’s Procurement
+Geometry,5,Mordenkainen’s Private Sanctum
+Geometry,5,Von Gasik’s Refusal
+Geometry,6,Ensnarement
+Geometry,6,Globe of Invulnerability
+Geometry,6,Greater Sign of Sealing
+Geometry,6,Guards and Wards
+Geometry,6,Invulnerability to Magical Weapons
+Geometry,7,Fear Ward
+Geometry,7,Phase Door
+Geometry,7,Sequester
+Geometry,7,Vanish
+Geometry,8,Binding
+Geometry,8,Maze
+Geometry,8,Symbol
+Geometry,8,Trap the Soul
+Geometry,9,Gate
+Geometry,9,Shape Change
+Song,1,Audible Glamer
+Song,1,Charm Person
+Song,1,Find Familiar
+Song,1,Friends
+Song,1,Sleep
+Song,1,Taunt
+Song,2,Forget
+Song,2,Summon Swarm
+Song,2,Tasha’s Uncontrollable Hideous Laughter
+Song,2,Whispering Wind
+Song,3,Fireflow
+Song,3,Hold Person
+Song,3,Monster Summoning I
+Song,3,Suggestion
+Song,4,Charm Monster
+Song,4,Confusion
+Song,4,Emotion
+Song,4,Lesser Geas
+Song,4,Monster Summoning II
+Song,4,Shout
+Song,4,Summon Lycanthrope
+Song,5,Chaos
+Song,5,Dismissal
+Song,5,Hold Monster
+Song,5,Leomund’s Lamentable Belaborment
+Song,5,Monster Summoning III
+Song,6,Control Weather
+Song,6,Mass Suggestion
+Song,6,Monster Summoning IV
+Song,7,Banishment
+Song,7,Charm Plants
+Song,7,Monster Summoning V
+Song,7,Power Word, Stun
+Song,7,Spell Shape
+Song,8,Binding
+Song,8,Mass Charm
+Song,8,Monster Summoning VI
+Song,8,Otto’s Irresistible Dance
+Song,8,Power Word, Blind
+Song,8,Monster Summoning VII
+Song,9,Power Word, Kill
+Song,9,Wail of the Banshee
+Wild Magic,1,Hornung’s Guess
+Wild Magic,1,Nahal’s Reckless Dweomer
+Wild Magic,1,Patternweave
+Wild Magic,2,Chaos Shield
+Wild Magic,2,Hornung’s Baneful Deflector
+Wild Magic,2,Nahal’s Nonsensical Nullifier
+Wild Magic,3,Alternate Reality
+Wild Magic,3,Fireflow
+Wild Magic,3,Fool’s Speech
+Wild Magic,4,There/Not There
+Wild Magic,4,Unluck
+Wild Magic,5,Vortex
+Wild Magic,5,Waveform
+Wild Magic,6,Wildshield
+Wild Magic,6,Wildstrike
+Wild Magic,7,Hornung’s Surge Selector
+Wild Magic,7,Spell Shape
+Wild Magic,8,Hornung’s Random Dispatcher
+Wild Magic,8,Wildzone
+Wild Magic,9,Stabilize
+Wild Magic,9,Wildfire
+Wild Magic,9,Wildwind
