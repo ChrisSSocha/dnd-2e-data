@@ -9,6 +9,9 @@ Additional spells for priests and wizards taken from "Faiths & Avatars", "Powers
 ## License
 
 "Player's Option: Spells & Magic" Copyright 1996 TSR.
+
 "Faiths & Avatars" Copyright 1996 Wizards of the Coast.
-"Powers & Pantheons" Copyright 1997 TSR
+
+"Powers & Pantheons" Copyright 1997 TSR.
+
 "Demihuman Deities" Copyright 1998 Wizards of the Coast.
