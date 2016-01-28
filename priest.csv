@@ -170,7 +170,7 @@ Guardian,1,Blessed Watchfulness
 Guardian,1,Light/Darkness
 Guardian,1,Sacred Guardian
 Guardian,2,Iron Vigil
-Guardian,2,Silence, 15’ Radius
+Guardian,2,Silence 15’ Radius
 Guardian,2,Wyvern Watch
 Guardian,3,Continual Light/Continual Darkness
 Guardian,3,Glyph of Warding
@@ -277,7 +277,7 @@ Protection,2,Withdraw
 Protection,3,Line of Protection/Line of Destruction
 Protection,3,Magical Vestment
 Protection,3,Negative Plane Protection
-Protection,3,Protection from Evil, 10’ Radius/Prot. from Good, 10’ Radius
+Protection,3,Protection from Evil 10’ Radius/Prot. from Good 10’ Radius
 Protection,3,Remove Paralysis
 Protection,4,Spell Immunity
 Protection,5,Antiplant Shell
@@ -400,7 +400,7 @@ Weather,1,Faerie Fire
 Weather,1,Obscurement
 Weather,3,Call Lightning
 Weather,3,Weather Prediction
-Weather,4,Control Temperature, 10’ Radius
+Weather,4,Control Temperature 10’ Radius
 Weather,4,Protection from Lightning
 Weather,4,Weather Stasis
 Weather,5,Control Winds

@@ -28,7 +28,7 @@ Abjuration,3,Iron Mind
 Abjuration,3,Lesser Sign of Sealing
 Abjuration,3,Nondetection
 Abjuration,3,Protection from Amorphs
-Abjuration,3,Protection from Evil, 10’ Radius/Protection from Good, 10’ Radius
+Abjuration,3,Protection from Evil 10’ Radius/Protection from Good 10’ Radius
 Abjuration,3,Protection from Normal Missiles
 Abjuration,4,Fire Aura
 Abjuration,4,Fire Trap
@@ -86,7 +86,7 @@ Alteration,1,Spider Climb
 Alteration,2,Alter Self
 Alteration,2,Cat’s Grace
 Alteration,2,Continual Light
-Alteration,2,Darkness, 15’ radius
+Alteration,2,Darkness 15’ radius
 Alteration,2,Deeppockets
 Alteration,3,Displace Self
 Alteration,2,Fog Cloud
@@ -253,18 +253,18 @@ Conjuration/Summoning,7,Intensify Summoning
 Conjuration/Summoning,7,Limited Wish
 Conjuration/Summoning,7,Monster Summoning V
 Conjuration/Summoning,7,Mordenkainen’s Magnificent Mansion
-Conjuration/Summoning,7,Power Word, Stun
+Conjuration/Summoning,7,Power Word Stun
 Conjuration/Summoning,7,Prismatic Spray
 Conjuration/Summoning,7,Seven-eyes
 Conjuration/Summoning,8,Maze
 Conjuration/Summoning,8,Monster Summoning VI
-Conjuration/Summoning,8,Power Word, Blind
+Conjuration/Summoning,8,Power Word Blind
 Conjuration/Summoning,8,Prismatic Wall
 Conjuration/Summoning,8,Symbol
 Conjuration/Summoning,8,Trap the Soul
 Conjuration/Summoning,9,Gate
 Conjuration/Summoning,9,Monster Summoning VII
-Conjuration/Summoning,9,Power Word, Kill
+Conjuration/Summoning,9,Power Word Kill
 Conjuration/Summoning,9,Prismatic Sphere
 Conjuration/Summoning,9,Sphere of Ultimate Destruction
 Conjuration/Summoning,9,Wish
@@ -377,7 +377,7 @@ Illusion/Phantasm,2,Mirror Image
 Illusion/Phantasm,2,Misdirection
 Illusion/Phantasm,2,Whispering Wind
 Illusion/Phantasm,3,Illusionary Script
-Illusion/Phantasm,3,Invisibility, 10’ Radius
+Illusion/Phantasm,3,Invisibility 10’ Radius
 Illusion/Phantasm,3,Lorloveim’s Creeping Shadow
 Illusion/Phantasm,3,Phantom Steed
 Illusion/Phantasm,3,Spectral Force
@@ -708,7 +708,7 @@ Shadow,1,Sleep
 Shadow,1,Spook
 Shadow,2,Blur
 Shadow,2,Continual Darkness
-Shadow,2,Darkness, 15’ Radius
+Shadow,2,Darkness 15’ Radius
 Shadow,2,Ray of Enfeeblement
 Shadow,2,Scare
 Shadow,2,Spectral Hand
@@ -757,7 +757,7 @@ Alchemy,2,Stinking Cloud
 Alchemy,3,Alamir’s Fundamental Breakdown
 Alchemy,3,Flame Arrow
 Alchemy,3,Melf’s Minute Meteors
-Alchemy,3,Protection from Evil, 10’ Radius/Protection from Good, 10’ Radius
+Alchemy,3,Protection from Evil 10’ Radius/Protection from Good 10’ Radius
 Alchemy,3,Solvent of Corrosion
 Alchemy,4,Enchanted Weapon
 Alchemy,4,Fire Charm
@@ -876,15 +876,15 @@ Song,6,Monster Summoning IV
 Song,7,Banishment
 Song,7,Charm Plants
 Song,7,Monster Summoning V
-Song,7,Power Word, Stun
+Song,7,Power Word Stun
 Song,7,Spell Shape
 Song,8,Binding
 Song,8,Mass Charm
 Song,8,Monster Summoning VI
 Song,8,Otto’s Irresistible Dance
-Song,8,Power Word, Blind
+Song,8,Power Word Blind
 Song,8,Monster Summoning VII
-Song,9,Power Word, Kill
+Song,9,Power Word Kill
 Song,9,Wail of the Banshee
 Wild Magic,1,Hornung’s Guess
 Wild Magic,1,Nahal’s Reckless Dweomer

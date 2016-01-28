@@ -4,6 +4,11 @@ Priest's Spells are taken from Appendix 4 of "Player's Option: Spells & Magic" a
 
 Wizard's Spells are taken from Appendix 3 of "Player's Option: Spells & Magic" and include spells from the "Player's Handbook", "Tome of Magic", "The Complete Wizard's Handbook", and "Player's Option: Spells & Magic".
 
+Additional spells for priests and wizards taken from "Faiths & Avatars", "Powers & Pantheons", and "Demihuman Deities".
+
 ## License
 
-Data taken from "Player's Option: Spells & Magic" Copyright 1996 TSR.
+"Player's Option: Spells & Magic" Copyright 1996 TSR.
+"Faiths & Avatars" Copyright 1996 Wizards of the Coast.
+"Powers & Pantheons" Copyright 1997 TSR
+"Demihuman Deities" Copyright 1998 Wizards of the Coast.
