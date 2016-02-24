@@ -22,7 +22,6 @@ Amaunator,6,Sun scepter
 Anhur,1,Stumble
 Anhur,3,Bird of prey
 Anhur,3,Detect ambush
-Anhur,3,Detect ambush
 Anhur,4,Thunderstroke
 Arvoreen,1,Warning shout
 Arvoreen,2,Weapon shift
@@ -39,18 +38,15 @@ Azuth,4,Azuth's fedensor
 Azuth,5,Azuth's exalted triad
 Azuth,7,Azuth's spell shield
 Azuth,7,Destroy magedoom
-Azuth,7,Destroy magedoom
 Baervan Wildwanderer,2,Arboreal scamper
 Baervan Wildwanderer,2,Whisperleaf
 Baervan Wildwanderer,4,Tree nap
 Bane,4,The Doom of Bane
 Bane,5,Dark promise
-Bane,5,Dark promise
 Bane,5,Mystic lash
 Bane,6,Create Baneguard
 Bane,6,Spirit annihilation
 Bane,6,Undeath after death
-Bane,7,Death symbol of Bane
 Bane,7,Death symbol of Bane
 Bane,7,Moonveil
 Bane,7,Stone walk
@@ -65,17 +61,13 @@ Beshaba,4,Misfire
 Beshaba,5,Misfortune
 Bhaal,2,Attraction/disdain
 Bhaal,3,Decay
-Bhaal,3,Decay
 Bhaal,5,Wound
-Brandobaris,1,Daydream
 Brandobaris,1,Daydream
 Brandobaris,2,Charm of Brandobaris
 Brandobaris,3,Stealth of Brandobaris
 Callarduran Smoothhands,1,Animate Stalactite
 Callarduran Smoothhands,1,Detect metals & minerals
-Callarduran Smoothhands,1,Detect metals & minerals
 Callarduran Smoothhands,1,Strength of stone
-Callarduran Smoothhands,3,Depress resistance
 Callarduran Smoothhands,3,Depress resistance
 Callarduran Smoothhands,3,Ruby axe
 Callarduran Smoothhands,4,Stone form
@@ -93,7 +85,6 @@ Corellon Larethian,4,Sylvan creature form
 Corellon Larethian,5,Crystallomancy
 Cyric,2,Black talon
 Cyric,4,Dark aura
-Cyric,4,Dark aura
 Cyric,4,Skull of secrets
 Cyric,7,Create direguard
 Cyrrollaee,4,Improved sanctuary
@@ -101,7 +92,6 @@ Cyrrollalee,1,Comforts of home
 Cyrrollalee,2,Seal of Cyrrollalee
 Deep Duerra,1,Steal psionic strength
 Deep Duerra,2,Augment psionics
-Deep Duerra,4,Deflect psionics
 Deep Duerra,4,Deflect psionics
 Deep Sashelas,1,Surface sojourn
 Deep Sashelas,2,Shark charm
@@ -111,14 +101,11 @@ Deep Sashelas,7,Cetacean form
 Deneir,2,Glyph of revealing
 Deneir,3,Amanuensis
 Deneir,3,Shift glyph
-drow,2,Darkfire
-drow,2,Darkfire
+Drow,2,Darkfire
 Dugmaren Brightmantle,1,Mending
 Dugmaren Brightmantle,2,Brightmantle
 Dugmaren Brightmantle,7,Guardian mantle
 Dumathoin,1,Detect metals & minerals
-Dumathoin,1,Detect metals & minerals
-Dumathoin,2,Dumathoin's rest
 Dumathoin,2,Dumathoin's rest
 Dumathoin,4,Crypt ward/remove crypt ward
 Dumathoin,4,Stonefall
@@ -151,16 +138,13 @@ Fenmarel Mestarine,3,Find sustenance
 Fenmarel Mestarine,4,Solitude
 Finder Wyvemspur,5,Melisander's harp
 Finder Wyvernspur,3,Dispel silence
-Finder Wyvernspur,3,Dispel silence
 Finder Wyvernspur,3,Ghost pipes
 Finder Wyvernspur,6,Starharp
-Flandal Steelskin,1,Detect metals & minerals
 Flandal Steelskin,1,Detect metals & minerals
 Flandal Steelskin,1,Steelskin
 Flandal Steelskin,3,Metal shape
 Ftandal Steelskin,4,Shades of Rhondang
 Gaerdal Ironhand,1,Blessed watchfulness
-Gaerdal Ironhand,1,Deafening clang
 Gaerdal Ironhand,1,Deafening clang
 Gaerdal Ironhand,2,Alert allies
 Gaerdal Ironhand,2,Iron vigil
@@ -175,9 +159,7 @@ Garl Glittergold,3,Gembomb
 Garl Glittergold,5,Conjure aurumvorax
 Garl Glittergold,5,Edge of Arumdina
 Geb,1,Detect metals & minerals
-Geb,1,Detect metals & minerals
 Geb,2,Arm hammers
-Geb,3,Dust shield
 Geb,3,Dust shield
 Geb,5,Earthshake*
 Ghaunadaur,3,Mists of Ghaunadaur
@@ -199,16 +181,13 @@ Grumbar,3,Earthenair
 Grumbar,5,Earthenporr
 Gwaeron Windstrom,2,Natural attunement
 Haela Brightaxe,1,Detect weapons
-Haela Brightaxe,1,Detect weapons
 Haela Brightaxe,2,Haela's battle blessing
 Haela Brightaxe,2,Hurl rock/rock shield
-Hanali Celanil,1,Divine romantic interest
 Hanali Celanil,1,Divine romantic interest
 Hanali Celanil,5,Hamatree
 Hanali Celanil,7,Nymph's beauty
 Hathor,2,Horns of Hathor
 Hathor,2,Nurture
-Hathor,6,Dance of life*
 Hathor,6,Dance of life*
 Helm,1,Sentry of Helm/Gorm
 Helm,3,Exaltation
@@ -219,16 +198,13 @@ Helm,5,Summon spectator
 Hoar,2,Scent of vengeance
 Hoar,4,Hand of Hoar
 Hoar,6,Hoar's revenance
-Hoar,6,Hoar's revenance
 Horus-Re,1,Test of maat
 Horus-Re,2,Stormvoice
 Horus-Re,3,Eye of fire
 Horus-Re,3,Sunstroke
 Horus-Re,4,Mirage
 Horus-Re,6,Dying curse
-Horus-Re,6,Dying curse
 Horus-Re,7,Bane/reverse bane
-Ibrandul,1,Dark path
 Ibrandul,1,Dark path
 Ibrandul,3,Blacklight
 Ibrandul,4,Skulk
@@ -247,16 +223,12 @@ Istishia,6,Conjure water elemental/dismiss water elemental
 Istishia,7,Istishia's port
 Istishia,7,Tsunami
 Jergal,1,Detect living
-Jergal,1,Detect living
-Jergal,3,Determine final rest
 Jergal,3,Determine final rest
 Jergal,4,Seek eternal rest
 Jergal,5,Jergal's mind probe
 Jergal,7,Gate of doom
 Kelemvor,2,Chilling scythe
 Kelemvor,4,Dead march
-Kelemvor,4,Dead march
-Kelemvor,5,Deny death
 Kelemvor,5,Deny death
 Kiaransalee,2,Threnody
 Kiaransalee,5,Haunted reverie
@@ -281,10 +253,8 @@ Leira,4,Monstrous illusion
 Leira,5,Triple mask
 Lliira,2,Bliss
 Lliira,4,Deadly dance
-Lliira,4,Deadly dance
 Lliira,5,Candle of calm
 Lolth,1,Cloak of dark power
-Lolth,2,Darkfire
 Lolth,2,Darkfire
 Lolth,3,Conceal item
 Lolth,5,Spider summoning
@@ -297,12 +267,10 @@ Lolth,7,Repulsion
 Loviatar,2,Loviatar's caress
 Loviatar,2,Whip of flame
 Loviatar,3,Dance of pain
-Loviatar,3,Dance of pain
 Loviatar,3,Whip of pain
 Loviatar,4,Kiss of torment
 Lurue,3,Alicorn lance
 Lurue,3,Favor of Yathaghera
-Lurue,5,Dance of the unicorns
 Lurue,5,Dance of the unicorns
 Lurue,6,Silver tongue and starry eyes
 lyachtu Xvim,2,Mace of Xvim
@@ -330,7 +298,6 @@ Milii,2,Battle song
 Milii,4,Singing stone
 Milii,7,Harp of war
 Milil,3,Dispel silence
-Milil,3,Dispel silence
 Milil,3,Song of compulsion
 MiliL,5,Forgotten melody
 Moander,2,Handfang
@@ -349,7 +316,6 @@ Myrkul,2,Bone bite
 Myrkul,4,Corrupt
 Myrkul,5,Wither
 Myrkul,6,Dolorous decay
-Myrkul,6,Dolorous decay
 Myrkul,6,Quench the spirit
 Mysn-a,6,Wondrous recall
 Mystra,3,Starflight*
@@ -367,7 +333,6 @@ Nobanion,4,Pride of Nobanion
 Nobanion,4,Roar of the king
 Nobanion,7,Feline form
 Oghma,2,Impart knowledge
-Oghma,4,Duplicate
 Oghma,4,Duplicate
 Oghma,7,Spellbind
 Osiris,1,Beckon
@@ -396,7 +361,6 @@ Segojan Earthcaller,2,Burrow
 Segojan Earthcaller,7,Call stone guardian
 Sehanine Moonbow,1,Motes of moonlight
 Sehanine Moonbow,3,Detect spirits
-Sehanine Moonbow,3,Detect spirits
 Sehanine Moonbow,4,Moonbow
 Sehanine Moonbow,4,Moonbridge
 Selune,3,Moon blade
@@ -406,17 +370,14 @@ Selune,5,Moonweb
 Selvetarm,2,Fortitude
 Selvetarm,4,Venomous blade
 Set,2,Dispel ward
-Set,2,Dispel ward
 Set,5,Incarnation of evil
 Set,6,Create ancient dead
 Shar,3,Armor of darkness
 Shar,3,Whip of Shar
 Shar,4,Darkbolt
-Shar,4,Darkbolt
 Sharess,1,Excessive indulgence
 Sharess,3,Intensify sensation/deaden sensation
 Sharess,5,Kiss of Sharess
-Sharindlar,1,Detect dwarves
 Sharindlar,1,Detect dwarves
 Sharindlar,3,Merciful touch
 Sharindlar,5,Flowstone
@@ -424,22 +385,18 @@ Shaundakul,2,Favor of Shaundakul
 Shaundakul,3,Shadow sword
 Shaundakul,4,Gauntlet of winds
 Shaundakul,5,Dead magic shield
-Shaundakul,5,Dead magic shield
 Sheela Peryroyl,1,Reed staff
 Sheela Peryroyl,2,Sheela's entangle
 Sheela Peryroyl,5,Royalberry
 Shevarash,2,Infrainvisible
-Shevarash,3,Depress resistance
 Shevarash,3,Depress resistance
 Shevarash,3,Shevarash's infravision
 Shiallia,3,Ease labor/inflict labor
 Shiallia,4,Fertility
 Shiallia,6,Endless dance
 Siamorphe,1,Divine bloodline
-Siamorphe,1,Divine bloodline
 Siamorphe,2,Unquestioning obedience
 Siamorphe,3,Loyal vassal
-Siamorphe,5,Divine investiture
 Siamorphe,5,Divine investiture
 Silvanus,4,Briartangle
 Silvanus,4,Oakheart
@@ -447,7 +404,6 @@ Silvanus,4,Smoke ghost
 Silvanus,4,Thorn spray
 Silvanus,5,Fireward
 Silvanus,5,Mulch
-Silvanus,7,Death chariot
 Silvanus,7,Death chariot
 Solonor Thelandira,2,Keen eye
 Solonor Thelandira,3,Archer's redoubt
@@ -470,17 +426,14 @@ Talos,5,Storm cone
 Tempus,3,Holy flail
 Tempus,4,Revealjconceal
 Tempus,6,Dance of the fallen
-Tempus,6,Dance of the fallen
 Tempus,7,Bladebless
 Tempus,7,Sacred link
 Term,6,Swordward
 Thard Harr,1,Claws of Thard Harr
 Thard Harr,2,Disentangle
-Thard Harr,2,Disentangle
 Thard Harr,3,Lesser guardian hammer
 Thoth,1,Speak with birds
 Thoth,2,Inscribe speech
-Thoth,3,Detect curse
 Thoth,3,Detect curse
 Thoth,4,Flock of birds
 Thoth,5,Shatter circle
@@ -488,7 +441,6 @@ Thoth,6,Resist magic
 Thoth,7,Timewarp
 Tiamar,6,Sleep of dragons
 Tiamat,1,Treasure scent
-Tiamat,4,Dragon scales
 Tiamat,4,Dragon scales
 Tiamat,6,Spawn of Tiamat
 Torm,3,Compel
@@ -519,7 +471,6 @@ Urdlen,4,Summon earth grue
 Urdlen,6,Curse of the everbleeding wounds
 Urogalan,2,Earth anchor
 Urogalan,3,Doomhound
-Urogalan,3,Doomhound
 Urogalan,4,Call hounds
 Uthgar,1,Fortitude of Uthgar
 Uthgar,3,Summon ancestor
@@ -537,19 +488,15 @@ Velsharoon,4,Assume undead form
 Velsharoon,5,Gaseous form
 Velsharoon,7,Velsharoon's death pact
 Vergadain,2,Detect enemies
-Vergadain,2,Detect enemies
 Vergadain,2,Merchant's glamer
 Vergadain,4,Stone trap
 Vhaeraun,2,Blessing ofVhaeraun
 Vhaeraun,3,Conceal item
 Vhaeraun,4,Dark embrace
-Vhaeraun,4,Dark embrace
-Vhaeraun,6,Deceive prying
 Vhaeraun,6,Deceive prying
 Vhaeraun,7,Soultheft
 Waukeen,1,Truemetal
 Waukeen,3,Summon lock lurker
-Waukeen,4,Doublecoin
 Waukeen,4,Doublecoin
 Waukeen,5,Minor wealthtwist
 Waukeen,7,Wealthtwist
