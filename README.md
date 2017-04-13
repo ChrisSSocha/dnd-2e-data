@@ -1,4 +1,4 @@
-#Advanced Dungeons and Dragons 2nd Edition Data
+# Advanced Dungeons and Dragons 2nd Edition Data
 
 Priest's Spells are taken from Appendix 4 of "Player's Option: Spells & Magic" and include spells from the "Player's Handbook", "Tome of Magic", and "Player's Option: Spells & Magic".
 

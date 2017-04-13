@@ -87,7 +87,7 @@ Cyric,2,Black talon
 Cyric,4,Dark aura
 Cyric,4,Skull of secrets
 Cyric,7,Create direguard
-Cyrrollaee,4,Improved sanctuary
+Cyrrollalee,4,Improved sanctuary
 Cyrrollalee,1,Comforts of home
 Cyrrollalee,2,Seal of Cyrrollalee
 Deep Duerra,1,Steal psionic strength
@@ -136,14 +136,14 @@ Eshowdow,5,Wall of shadow
 Fenmarel Mestarine,1,Beast tattoo
 Fenmarel Mestarine,3,Find sustenance
 Fenmarel Mestarine,4,Solitude
-Finder Wyvemspur,5,Melisander's harp
+Finder Wyvernspur,5,Melisander's harp
 Finder Wyvernspur,3,Dispel silence
 Finder Wyvernspur,3,Ghost pipes
 Finder Wyvernspur,6,Starharp
 Flandal Steelskin,1,Detect metals & minerals
 Flandal Steelskin,1,Steelskin
 Flandal Steelskin,3,Metal shape
-Ftandal Steelskin,4,Shades of Rhondang
+Flandal Steelskin,4,Shades of Rhondang
 Gaerdal Ironhand,1,Blessed watchfulness
 Gaerdal Ironhand,1,Deafening clang
 Gaerdal Ironhand,2,Alert allies
@@ -294,12 +294,12 @@ Mielikki,2,Stalk
 Mielikki,2,Wood sword
 Mielikki,5,Tree healing
 Mielikki,7,Create treant
-Milii,2,Battle song
-Milii,4,Singing stone
-Milii,7,Harp of war
+Milil,2,Battle song
+Milil,4,Singing stone
+Milil,7,Harp of war
 Milil,3,Dispel silence
 Milil,3,Song of compulsion
-MiliL,5,Forgotten melody
+Milil,5,Forgotten melody
 Moander,2,Handfang
 Moander,3,Speed rot
 Moander,5,Rising rot
@@ -317,7 +317,7 @@ Myrkul,4,Corrupt
 Myrkul,5,Wither
 Myrkul,6,Dolorous decay
 Myrkul,6,Quench the spirit
-Mysn-a,6,Wondrous recall
+Mystra,6,Wondrous recall
 Mystra,3,Starflight*
 Mystra,4,Anyspell
 Mystra,4,Magefire*
@@ -439,9 +439,9 @@ Thoth,4,Flock of birds
 Thoth,5,Shatter circle
 Thoth,6,Resist magic
 Thoth,7,Timewarp
-Tiamar,6,Sleep of dragons
 Tiamat,1,Treasure scent
 Tiamat,4,Dragon scales
+Tiamat,6,Sleep of dragons
 Tiamat,6,Spawn of Tiamat
 Torm,3,Compel
 Torm,4,Hand of Torm
